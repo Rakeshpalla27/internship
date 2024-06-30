@@ -1,0 +1,1 @@
+This is a NestJS backend for managing user authentication and tree structures.
